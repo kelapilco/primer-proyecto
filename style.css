@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    background: palegoldenrod;
+    }
+    /*header*/
+div{
+    width: 80%;
+    border: 10px solid red;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 35px;
+}
+a{
+    text-decoration: none;
+    color: red;
+
+}
+a :hover{
+    color: aqua;
+}
+img{
+    border-radius: 65%;
+    width: 100px;
+    height: 100px;
+
+}
